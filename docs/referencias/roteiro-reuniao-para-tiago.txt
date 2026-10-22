@@ -1,0 +1,48 @@
+VELUME — ROTEIRO PARA A REUNIÃO COM TIAGO
+Uso do proponente, separado do material para o cliente. 22/10/2026.
+
+OBJETIVO
+Validar a necessidade e o recorte do piloto; conhecer o investimento viável antes de apresentar preço e franquia. Não pedir apenas “quanto pagaria”: entender o problema, o volume, o custo atual e a expectativa de resultado.
+
+1. ENTENDER A OPERAÇÃO (8 minutos)
+- Onde o atendimento mais atrasa ou deixa o cliente sem resposta?
+- Quantas pessoas procuram a loja numa semana comum e num pico? Pedir uma estimativa se não tiver relatório.
+- Quais são as dúvidas mais frequentes? Há varejo e atacado no mesmo número?
+- Quem responde, em quais horários, e quem assumiria as exceções da agente?
+- O catálogo da Nuvemshop está atualizado? Há medidas, tecidos, variações e estoque confiáveis?
+- Confirmar nome da loja e situação do WhatsApp; não presumir migração ou coexistência.
+
+2. MOSTRAR TRÊS SITUAÇÕES (5 minutos)
+- Marina: necessidade, duas opções, link e confirmação simulada distinta.
+- Bia: indisponibilidade, resumo, assumir e responder.
+- Paula: falta de política, encaminhamento para pessoa.
+Explicar: são dados fictícios, roteiro local, sem integração real. Botões conduzem a apresentação; o MVP deverá responder aos eventos reais.
+
+3. VALIDAR VALOR E PRIORIDADE (5 minutos)
+- Qual desses casos resolveria um problema concreto da sua loja?
+- O que está faltando ou seria desnecessário na primeira versão?
+- O que você precisaria observar no piloto para decidir continuar?
+- Qual informação ou decisão você nunca quer que a IA assuma sozinha?
+
+4. INVESTIMENTO E CONDIÇÕES (5 minutos)
+- Que investimento inicial você consegue destinar à implantação e ao teste?
+- Que faixa mensal é sustentável para uma solução que entregue o escopo discutido?
+- Quem decide a contratação e qual é a prioridade de implantação?
+- Explicar que será preparada uma proposta escrita com entrega, prazo, consumo incluído, adicionais e continuidade. Não fechar mensalidade “a descobrir depois” sem referência de orçamento aceita.
+- Como não há caixa próprio reservado, não assumir custos antes de uma contratação e entrada que os cubram. Não apresentar isso como desconto ou obrigação do cliente de financiar todo o produto.
+
+5. REGISTRAR O ACORDO (2 minutos)
+Problema prioritário:
+Volume habitual e pico:
+Responsável na loja:
+Produtos / políticas que precisam de preparação:
+Investimento inicial possível:
+Orçamento mensal possível:
+Critérios do piloto:
+Dependências e decisões pendentes:
+Próximo passo acordado:
+
+MENSAGEM SUGERIDA PARA ENVIAR JUNTO DO MATERIAL
+“Tiago, preparei uma visão da Velume e um demonstrativo para você conhecer a ideia de atendimento para a sua loja. Os dados são fictícios, mas mostram como queremos ajudar na escolha dos produtos e passar para sua equipe o que precisar de uma pessoa. Queria conversar amanhã sobre sua rotina, o que faria diferença e qual investimento faz sentido para montar uma proposta adequada. Qual horário funciona para você?”
+
+Nenhuma mensagem foi enviada e nenhuma reunião foi agendada por esta tarefa.
